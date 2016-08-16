@@ -2,10 +2,10 @@ var config = {};
 
 config.bots = [
   {
-    botID: 'xxxxxxxxxx',
-    groupID: 'xxxxxxxx',
+    botID: '90d10f4d40efc5758a90a65754',
+    groupID: '23657881',
     groupLocalID: '1', // an identifier for this group used in this application only
-    botName: 'mybot',
+    botName: 'Jeeves',
     groupName: 'the-group-name' // optional
   }
 ];
